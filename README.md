@@ -1,9 +1,7 @@
 # pwa
 
 ## Demo
-```
 https://pwa-rori.netlify.com
-```
 
 ## Project setup
 ```
