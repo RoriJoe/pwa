@@ -8,5 +8,5 @@ if (workbox) {
   workbox.precaching.precacheAndRoute(self.__precacheManifest || [])
   // workbox.routing.registerNavigationRoute('/index.html')
 
-  workbox.routing.registerNavigationRoute('/login')
+  workbox.routing.registerNavigationRoute('/about')
 }
