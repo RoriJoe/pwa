@@ -9,4 +9,8 @@ if (workbox) {
   // workbox.routing.registerNavigationRoute('/index.html')
 
   workbox.routing.registerNavigationRoute('/index.html')
+  workbox.routing.registerRoute(
+    /(.*)\/login/,
+    workbox.strategies.networkFirst()
+  )
 }
