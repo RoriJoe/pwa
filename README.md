@@ -1,7 +1,7 @@
 # pwa
 
 ## Demo
-https://pwa-rori.netlify.com
+https://pwa-vue-1065f.firebaseapp.com
 
 ## Project setup
 ```
